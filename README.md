@@ -25,4 +25,4 @@ It takes the input from the previous layer and computes the final classification
 ### Output Layer: 
 The output from the fully connected layers is then fed into a logistic function for classification tasks like sigmoid or softmax which converts the output of each class into the probability score of each class.
 
-i[](https://editor.analyticsvidhya.com/uploads/719641_uAeANQIOQPqWZnnuH-VEyw.jpeg)
+![](https://editor.analyticsvidhya.com/uploads/719641_uAeANQIOQPqWZnnuH-VEyw.jpeg)
